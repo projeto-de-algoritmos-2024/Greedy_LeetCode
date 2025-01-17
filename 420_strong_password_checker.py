@@ -36,4 +36,4 @@ class Solution:
             change -= min(delete, one * 1) // 1
             change -= min(max(delete - one, 0), two * 2) // 2
             change -= max(delete - one - 2 * two, 0) // 3
-            return delete + max(categories, change) + 1
+            return delete + max(categories, change)
