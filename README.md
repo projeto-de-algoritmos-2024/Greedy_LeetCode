@@ -1,45 +1,59 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Lista de Exercícios do LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 57<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0139323  |  Pedro Menezes Rodiguero |
+| xx/xxxxxxx  |  XXXX XXX XXXX |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Para desenvolver o conteúdo abordado no tópico de Algoritmos Gananciosos, resolvemos exercícios do LeetCode, sendo eles, de nível difícil e de nível médio.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+- [818 (Difícil) - Race Car](https://leetcode.com/problems/race-car/description/)
+<img width="734" alt="Race Car" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/leetcode/images/818.png">
+
+- [1579 (Difícil) - Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)
+<img width="734" alt="Remove Max Number of Edges to Keep Graph Fully Traversable" src="https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing/blob/leetcode/images/1579.png">
+
+- [1514 (Médio) - Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
+<img width="734" alt="Path with Maximum Probability" src="https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing/blob/leetcode/images/1514.png">
+
+- [1368 (Difícil) - Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
+<img width="734" alt="Minimum Cost to Make at Least One Valid Path in a Grid" src="https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing/blob/leetcode/images/1368.png">
+
+- [882 (Difícil) - Reachable Nodes in Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
+<img width="734" alt="Reachable Nodes in Subdivided Graph" src="https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing/blob/leetcode/images/882.png">
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Go<br>
+
+## 1. Clone o repositório 
+
+```bash
+git clone https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing
+```
+
+### 2. Go
+
+```bash
+go mod init
+go mod tidy
+go run 1489_edges_mst.go 
+go run 1579_max_number_edges.go
+go run 1514_path_maximum_probability.go
+go run 1368_path_to_grid.go
+go run 882_reachable_nodes.go
+
+```
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para aplicar os casos de teste (in e out), basta acessar o link referente ao exercício no LeetCode e inserí-los no prompt de comando, também é possível gerar novos casos de teste, desde que cumpram os requisitos do exercício em questão.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Apresentação 
 
-
-
-
+A apresentação da entrega pode ser visualizada [aqui](https://youtu.be/ztdb40Yrwtw).
