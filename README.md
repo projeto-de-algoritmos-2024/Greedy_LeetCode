@@ -15,13 +15,13 @@ Para desenvolver o conteúdo abordado no tópico de Algoritmos Gananciosos, reso
 ## Screenshots
 
 - [818 (Difícil) - Race Car](https://leetcode.com/problems/race-car/description/)
-<img width="734" alt="Race Car" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/images/818.png">
+<img width="734" alt="Race Car" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/818.png">
 
 - [420 (Difícil) - Strong Password Checker](https://leetcode.com/problems/strong-password-checker/description/)
-<img width="734" alt="Strong Password Checker" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/images/420.png">
+<img width="734" alt="Strong Password Checker" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/420.png">
 
 - [134 (Médio) - Gas Station](https://leetcode.com/problems/gas-station/description/)
-<img width="734" alt="Gas Station" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/images/134.pn">
+<img width="734" alt="Gas Station" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/134.pn">
 
 - [1368 (Difícil) - Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
 <img width="734" alt="Minimum Cost to Make at Least One Valid Path in a Grid" src="https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing/blob/leetcode/images/1368.png">
