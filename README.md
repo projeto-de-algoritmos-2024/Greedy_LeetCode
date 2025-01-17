@@ -17,8 +17,8 @@ Para desenvolver o conteúdo abordado no tópico de Algoritmos Gananciosos, reso
 - [818 (Difícil) - Race Car](https://leetcode.com/problems/race-car/description/)
 <img width="734" alt="Race Car" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/leetcode/images/818.png">
 
-- [1579 (Difícil) - Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)
-<img width="734" alt="Remove Max Number of Edges to Keep Graph Fully Traversable" src="https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing/blob/leetcode/images/1579.png">
+- [420 (Difícil) - Strong Password Checker](https://leetcode.com/problems/strong-password-checker/description/)
+<img width="734" alt="Strong Password Checker" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/leetcode/images/420.png">
 
 - [1514 (Médio) - Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
 <img width="734" alt="Path with Maximum Probability" src="https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing/blob/leetcode/images/1514.png">
