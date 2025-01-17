@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 19/0139323  |  Pedro Menezes Rodiguero |
-| xx/xxxxxxx  |  XXXX XXX XXXX |
+| 18/0119508  |  Eric Chagas de Oliveira |
 
 ## Sobre 
 Para desenvolver o conteúdo abordado no tópico de Algoritmos Gananciosos, resolvemos exercícios do LeetCode, sendo eles, de nível difícil e de nível médio.
@@ -30,25 +30,20 @@ Para desenvolver o conteúdo abordado no tópico de Algoritmos Gananciosos, reso
 <img width="734" alt="Reachable Nodes in Subdivided Graph" src="https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing/blob/leetcode/images/882.png">
 
 ## Instalação 
-**Linguagem**: Go<br>
+**Linguagem**: Python<br>
 
 ## 1. Clone o repositório 
 
 ```bash
-git clone https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing
+git clone https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode
 ```
 
-### 2. Go
+### 2. Python
 
 ```bash
-go mod init
-go mod tidy
-go run 1489_edges_mst.go 
-go run 1579_max_number_edges.go
-go run 1514_path_maximum_probability.go
-go run 1368_path_to_grid.go
-go run 882_reachable_nodes.go
-
+python3 134_gas_station.py
+python3 420_strong_password_checker.py
+python3 818_race_car.py
 ```
 
 ## Uso 
