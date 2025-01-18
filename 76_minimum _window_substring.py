@@ -17,25 +17,25 @@ class Solution:
         for i in t:
             freq_t[i] = 1 + freq_t.get(i, 0)
         
-        # print(freq_t)
+        print(freq_t)
                     
         for i in range(m):
             window[s[i]] = 1 + window.get(s[i], 0)
-            if s[i] in freq_t and window[s[i]] == freq_t[s[i]]:
+            if s[i] in freq_t and window[s[i]] <= freq_t[s[i]]:
                 found += 1 
             
             # Verificando se achamos uma solucao
             if found >= n and i+1 <= min_sol_len:
-                # print(window, found, "found")
+                print(window, found, "found")
                 sol = [sol_iterator, i - sol_iterator + 1]
                 min_sol_len = i + 1
                 
-            # print("found: ", found, "   n: ", n, window)
-            # print('sol ', sol)
-            
             # Aplicando o Slide removendo caracteres da esquerda    
+            print("found: ", found, "   n: ", n, window)
+            print('sol ', sol)
+
             while found == n:
-                # print('got here, i equals ', i, 'and min_sol_len ', min_sol_len)
+                print('got here, i equals ', i, 'and min_sol_len ', min_sol_len)
                 if i - sol_iterator + 1 < min_sol_len:
                     sol = [sol_iterator, i - sol_iterator + 1]
                     min_sol_len = sol[1]
@@ -48,8 +48,8 @@ class Solution:
             # print("window",window)
             # print("found: ", found, "   n: ", n)
         
-        # print(sol)
-        # print(s[sol[0]:sol[0] + sol[1]])
+        print(sol)
+        print(s[sol[0]:sol[0] + sol[1]])
                 
         if sol[1] < n:
             return ""
@@ -57,10 +57,10 @@ class Solution:
             return s[sol[0]:sol[0] + sol[1]]        
         
 
-# s = 'bba'
-# t = 'ab'
+s = 'aa'
+t = 'aa'
 
-# sol = Solution()
-# asw = sol.minWindow(s, t)
+sol = Solution()
+asw = sol.minWindow(s, t)
 
-# print(asw)
+print(asw)
