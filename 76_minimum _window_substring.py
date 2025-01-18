@@ -24,7 +24,7 @@ class Solution:
             
             # Verificando se achamos uma solucao
             if found == n and len(window) <= min_sol_len:
-                print(window, found, "found")
+                # print(window, found, "found")
                 sol = [sol_iterator, i - sol_iterator + 1]
                 min_sol_len = len(window)
                 
