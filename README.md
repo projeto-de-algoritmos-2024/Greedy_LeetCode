@@ -23,11 +23,14 @@ Para desenvolver o conteúdo abordado no tópico de Algoritmos Gananciosos, reso
 - [134 (Médio) - Gas Station](https://leetcode.com/problems/gas-station/description/)
 <img width="734" alt="Gas Station" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/134.png">
 
-- [1368 (Difícil) - Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
-<img width="734" alt="Minimum Cost to Make at Least One Valid Path in a Grid" src="https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing/blob/leetcode/images/1368.png">
+- [76 (Difícil) - Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+<img width="734" alt="Minimum Window Substring" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/76.png">
 
-- [882 (Difícil) - Reachable Nodes in Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
-<img width="734" alt="Reachable Nodes in Subdivided Graph" src="https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing/blob/leetcode/images/882.png">
+- [ 410 (Difícil) - Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
+<img width="734" alt="Split Array Largest Sum" src="https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing/blob/leetcode/images/410.png">
+
+- [ 68 (Difícil) - Text Justification](https://leetcode.com/problems/text-justification/description/)
+<img width="734" alt="Text Justification" src="https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing/blob/leetcode/images/68.png">
 
 ## Instalação 
 **Linguagem**: Python<br>
@@ -44,6 +47,9 @@ git clone https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode
 python3 134_gas_station.py
 python3 420_strong_password_checker.py
 python3 818_race_car.py
+python3 76_minimum_window_substring.py
+python3 410_split_array_largest_sum.py
+python3 68_text_justification.py
 ```
 
 ## Uso 
