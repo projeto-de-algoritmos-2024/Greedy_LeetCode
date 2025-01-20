@@ -27,10 +27,10 @@ Para desenvolver o conteúdo abordado no tópico de Algoritmos Gananciosos, reso
 <img width="734" alt="Minimum Window Substring" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/76.png">
 
 - [ 410 (Difícil) - Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
-<img width="734" alt="Split Array Largest Sum" src="https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing/blob/leetcode/images/410.png">
+<img width="734" alt="Split Array Largest Sum" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/410.png">
 
 - [ 68 (Difícil) - Text Justification](https://leetcode.com/problems/text-justification/description/)
-<img width="734" alt="Text Justification" src="https://github.com/projeto-de-algoritmos-2024/Grafos2_GoMazing/blob/leetcode/images/68.png">
+<img width="734" alt="Text Justification" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/68.png">
 
 ## Instalação 
 **Linguagem**: Python<br>
